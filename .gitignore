@@ -1,0 +1,7 @@
+.vagrant
+
+apps/***
+!apps/.gitkeep
+tmp/***
+!tmp/.gitkeep
+
